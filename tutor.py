@@ -15,7 +15,6 @@ logo='''\033[1;92m
 Perintah Termux  Lalu Tunggu Hingga 
 Proses Penginstallan Selesai...
 Jika muncul pertanyaan Dan Di Suruh Jawab
-Contoh Nya Seperti Ini
 Do you want to continue? [Y/n]
 Silahkan Kalian Ketik Y Lalu Enter
 jika Kalian sudah menggunakan script ini tidak di 
