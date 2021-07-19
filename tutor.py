@@ -19,7 +19,5 @@ Terimakasih :)
 '''
 
 os.system('clear')
-print ('\033[1;92m')
-os.system('figlet -f slant Tutorial')
 print (logo)
 
